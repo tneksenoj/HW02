@@ -55,6 +55,7 @@ public:
 private:
 	class Directory_Entry
 	{
+		// Second Team Member's Comment 
 	public:
 		Directory_Entry() {} // Default no-argument constructor 
 		Directory_Entry(std::string the_name, std::string the_number) {
